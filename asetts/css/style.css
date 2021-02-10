@@ -310,6 +310,7 @@
 .news-item {
   display: flex;
   justify-content: space-between;
+  color: #333;
 }
 
 .news-item:not(:last-child) {
